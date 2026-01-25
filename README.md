@@ -65,7 +65,7 @@ cd philosophy_ai
 3. 원하는 위치(예: 내 문서)에 보관
 
 ### AI 연결 (Antigravity Setup)
-이 폴더를 AI 에디터(Cursor, VSCode 등)에서 열기만 하면 됩니다.
+이 폴더를 AI 에디터(antigravity 추천)에서 열기만 하면 됩니다.
 - `.agent` 폴더가 AI에게 "어떻게 행동해야 하는지" 자동으로 알려줍니다.
 - 별도의 복잡한 설정 없이 바로 대화를 시작하세요.
 
