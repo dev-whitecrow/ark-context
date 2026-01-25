@@ -1,5 +1,7 @@
-# Philosophy_AI: AI 시대의 두 번째 뇌 (Second Brain)
-
+# Philosophy_AI
+## The Ark Protocol: An Open Standard for AI Identity Alignment
+Your AI is smart, but does it know you?
+Don't build just Agents. Build Identities.
 > **"Context-as-Code: 당신의 철학을 코드처럼 관리하세요."**
 
 Philosophy_AI는 당신과 당신의 조직이 가진 '생각의 운영체제(OS)'를 AI가 이해할 수 있는 형태로 정제하고 보존하는 오픈소스 프레임워크입니다.
@@ -108,8 +110,8 @@ Philosophy_AI/
 ```
 
 ---
-
-## 🏗️ Architecture: Why Context-SOLID? (For Developers)
+# Beyond Agents: Identities (For Developers)
+## 🏗️ Architecture: Why Context-SOLID? 
 
 우리는 "왜 채팅만으로는 AI가 내 맘 같지 않을까?"라는 기술적 난제에 집중했습니다.
 그 답은 프롬프트가 아니라 **'컨텍스트 아키텍처(Context Architecture)'**에 있었습니다.
